@@ -10,6 +10,7 @@ DocQuest is an advanced tool that extracts and queries information from PDFs usi
   <li>Sentence Transformer-->all-MiniLM-L6-v2 
 </li>
 </ol> 
+
 ## MODEL
 
 https://github.com/user-attachments/assets/2de45eaa-78d8-4fcc-a902-5c55eadc683d
